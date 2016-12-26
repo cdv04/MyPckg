@@ -12,3 +12,5 @@ I passed it to travais but I had 1 error, and don't know how to add the log to t
 
 https://travis-ci.org/cdv04/MyPckg.svg?branch=master
 
+[![Build Status](https://travis-ci.org/cdv04/MyPckg.svg?branch=master)](https://travis-ci.org/cdv04/MyPckg)
+
