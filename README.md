@@ -12,7 +12,6 @@ his package permits to analyse data from the US National Highway Traffic Safety 
 It permits to obtain summary statistics about juries suffered in motor vehicle traffic crashes and to map them.
 
 
-I passed it to travais but I had 1 error, and don't know how to add the log to the repository.
 
 
 
